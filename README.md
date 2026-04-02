@@ -4,6 +4,7 @@ This SQL-based analysis explores customer purchasing behavior, order activity, a
 The purpose of this analysis is to answer key business-oriented questions that help understand customer behavior and support data-driven decision-making. This type of analysis is commonly used by businesses to improve customer targeting, increase sales, identify top-performing products, and optimize business strategy.
 
 Analytical Questions
+
 The following questions are addressed through this SQL analysis:
 1.	What tables are available in the database? 
 2.	What are the relationships between Customers, Orders, OrderDetails, and Items? 
@@ -17,6 +18,7 @@ The following questions are addressed through this SQL analysis:
 10.	Who are the top 10 highest-spending customers?
 
 This analysis helps identify:
+
 • Active customers who place frequent orders
 • High-value customers who spend the most money
 • Large orders containing many items
@@ -24,6 +26,7 @@ This analysis helps identify:
 • Overall customer purchase behavior
 
 These insights can help a business:
+
 •	Reward loyal customers 
 •	Target high-spending customers 
 •	Understand purchasing patterns 
