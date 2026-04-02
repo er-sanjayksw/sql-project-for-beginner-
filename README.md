@@ -1,5 +1,6 @@
 # sql-project-for-beginner-
 This SQL-based analysis explores customer purchasing behavior, order activity, and item-level sales performance using a transactional retail dataset. The dataset contains four main tables: Customers, Orders, OrderDetails, and Items. By joining these related tables, the analysis aims to identify important business insights such as customer order frequency, high-value customers, item demand, and order-level revenue.
+
 The purpose of this analysis is to answer key business-oriented questions that help understand customer behavior and support data-driven decision-making. This type of analysis is commonly used by businesses to improve customer targeting, increase sales, identify top-performing products, and optimize business strategy.
 
 Analytical Questions
