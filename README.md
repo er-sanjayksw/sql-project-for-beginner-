@@ -16,19 +16,29 @@ The following questions are addressed through this SQL analysis:
 8.	Which customers have placed the highest number of total orders? 
 9.	How much money has each customer spent in total? 
 10.	Who are the top 10 highest-spending customers?
+    
 
 This analysis helps identify:
 
 • Active customers who place frequent orders
+
 • High-value customers who spend the most money
+
 • Large orders containing many items
+
 • Order-level revenue
+
 • Overall customer purchase behavior
+
 
 These insights can help a business:
 
 •	Reward loyal customers 
+
 •	Target high-spending customers 
+
 •	Understand purchasing patterns 
+
 •	Improve sales strategy 
+
 •	Identify valuable customers for retention campaigns
